@@ -19,3 +19,5 @@ https://pentester.land/list-of-bug-bounty-writeups.html
 
 https://hackersploit.org/
 
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
