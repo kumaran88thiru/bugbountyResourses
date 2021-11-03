@@ -14,3 +14,5 @@ https://www.hackerone.com/ethical-hacker/useful-online-resources-new-hackers
 
 
 https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources
+
+https://pentester.land/list-of-bug-bounty-writeups.html
