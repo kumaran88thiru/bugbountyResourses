@@ -21,3 +21,5 @@ https://hackersploit.org/
 
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 
+
+regularly read hackivity by hackerone bugcrowds crowdsteam  and intrigity bugbytes weekly 
