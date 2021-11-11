@@ -1,5 +1,7 @@
 # bugbountyResourses
 
+https://hackerstop.org/hacking
+
 https://kathan19.gitbook.io/howtohunt/
 
 https://github.com/swisskyrepo/PayloadsAllTheThings
